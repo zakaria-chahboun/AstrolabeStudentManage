@@ -1,7 +1,62 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
-  p Hello Mr #{name}
-  p Test
+
+  img(class="ui centered medium image" src="/images/Logos/Logo - ASTROLABE GROUP.PNG")
+  h2(class="ui center aligned header")
+    =title
+
+  p(class='ui green text') Hello Mr #{name}
+  button(class='ui red button') Button1
+  button#btnOne(class='ui primary button') Button2
+  
+  div(class="ui animated button" tabindex="0")
+    div(class="visible content") Next
+    div(class="hidden content")
+      i(class="right arrow icon")
+
+  div(class='ui labeled button' tabindex=0)
+    div(class='ui basic green button')
+      i(class='home icon')
+      |Home
+    a(class="ui green left pointing label")  125.5
+
+  div(class="ui labeled button" tabindex="0")
+    div(class="ui red button")
+      i(class="heart icon")
+      |Like
+    a(class="ui basic red left pointing label") 1,048
+
+  div(class='ui icon button')
+    i(class='cloud icon')
+
+  button(class="ui labeled icon button")
+    i(class='pause icon')
+    |Pause
+
+  button(class='ui inverted blue button') Click on me!
+
+  div(class='ui buttons')
+    button(class='ui basic blue button') B1
+    button(class='ui basic blue button') B2 
+    button(class='ui basic blue button') B3
+    button(class='ui basic blue button') B4
+
+  button(class="ui gray loading button") Loading
+  br
+  button(class='ui facebook button')
+    i(class='facebook icon')
+    |Facebook
+  
+  button(class='ui twitter button')
+    i(class='twitter icon')
+    |Twitter
+  
+  button(class='ui youtube button')
+    i(class='youtube icon')
+    |Youtube
+
+  br
+  button(class="ui toggle button active") Voted!
+
+  div(class="ui divider")

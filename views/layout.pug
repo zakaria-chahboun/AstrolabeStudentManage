@@ -2,9 +2,17 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-    link(rel="stylesheet" type="text/css" href="/semantic/dist/semantic.min.css")
+    
+    // JQuery
     script(src='/javascripts/jquery-3.3.1.min.js')
+    
+    // Semantic UI
+    link(rel="stylesheet" type="text/css" href="/semantic/dist/semantic.min.css")
     script(src='/semantic/dist/semantic.min.js')
+    
+    // My Main Css
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    // My Main Js
+    script(src='/javascripts/main.js')
   body
     block content
