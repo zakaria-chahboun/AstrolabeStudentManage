@@ -20,11 +20,10 @@ We used for develempent:
 
 -------------------------------------
 
-|
-| ---------------- | ---------------- | ---------------- |
-| <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20ASTROLABE%20GROUP.PNG' width='100px'/> |
- <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20ZAKI%20PRO.PNG' width='100px'/> |
- <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20KhawarizmyAna.jpg' width='100px'/> |
+
+| <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20ASTROLABE%20GROUP.PNG' width='300px'/> |
+ <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20ZAKI%20PRO.PNG' width='300px'/> |
+ <img src='https://raw.githubusercontent.com/zakaria-chahboun/AstrolabeStudentManage/master/public/images/Logos/Logo%20-%20KhawarizmyAna.jpg' width='300px'/> |
 
 Facebook :
 - <a href='https://www.facebook.com/KhawarizmyAna'>Khawarizmy Ana</a>
