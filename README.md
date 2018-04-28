@@ -21,9 +21,9 @@ We used for develempent:
 -------------------------------------
 
 
-<img src='Logo - ASTROLABE GROUP.png' width='100px'/>
-<img src='Logo - ZAKI PRO.png' width='100px'/>
-<img src='Logo - KhawarizmyAna.jpeg' width='100px'/>
+<img src='/Logo - ASTROLABE GROUP.png' width='100px'/>
+<img src='/Logo - ZAKI PRO.png' width='100px'/>
+<img src='/Logo - KhawarizmyAna.jpeg' width='100px'/>
 
 Facebook :
 - <a href='https://www.facebook.com/KhawarizmyAna'>Khawarizmy Ana</a>
