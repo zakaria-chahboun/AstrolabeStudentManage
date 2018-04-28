@@ -6,7 +6,7 @@
 <img src='https://raw.githubusercontent.com/zakaria-chahboun/ZakiQtProjects/master/IMAGE1.png'/>
 
 
-This project is for manage all of students in **Astrolabe Group Corporation**.
+This project is create to manage all students of **Astrolabe Group Corporation**.
 
 -------------------------------------
 
@@ -16,7 +16,7 @@ We used for develempent:
 - Firebase Database (Realtime)
 - SQLite Database (SQL)
 - Mongodb Database (NoSQL)
-- Semantic UI (Frontend Framework)
+- Semantic UI (Clinet-Side Ui Framework)
 
 -------------------------------------
 
