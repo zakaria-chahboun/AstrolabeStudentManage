@@ -61,3 +61,12 @@ block content
   button(class="ui toggle button active") Voted!
 
   div(class="ui divider")
+
+  br
+
+  p=data
+
+  form(action="/" method='post')
+    input(type="text" name='name' placeholder='give your name here ..')
+    input(type="text" name='age' placeholder='give your age here ..')
+    button(type='submit') submit!
