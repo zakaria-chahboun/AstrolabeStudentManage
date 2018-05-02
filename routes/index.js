@@ -9,10 +9,12 @@ var dateFormat = require('dateformat');
 router.get('/', async function(req, res, next) {
   
   var db = admin.database();
+
   const ref = await db.ref('students');
 
   let data = await ref.once('value');
   
+  // Update All Childs :)
   data.forEach(snap => {
     // each child :)
     let child = ref.child(`${snap.key}`);
